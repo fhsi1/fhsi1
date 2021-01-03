@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Eugenie's github stats](https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1a&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1)](https://github.com/anuraghazra/github-readme-stats)
