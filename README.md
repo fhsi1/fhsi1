@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 ![Eugenie's github stats](https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fhsi1&repo=github-readme-stats)](https://github.com/fhsi1/productive-box)
