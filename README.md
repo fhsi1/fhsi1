@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 
 ![Eugenie's github stats](https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fhsi1&repo=I'm a night 🦉)](https://gist.github.com/fhsi1/0c82fd7bfe3042c315bd873299f2a911)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1a&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
