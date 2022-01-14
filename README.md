@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 [![Google developer Badge](https://img.shields.io/badge/-GoogleDeveloperProfile-32de84?style=round-square&logo=Android&logoColor=white&link=https://g.dev/eugenie8)](https://g.dev/eugenie8)
 [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:eugenie8@kakao.com)](mailto:eugenie8@kakao.com)
 
-![Eugenie's github stats](https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&layout=compact" alt="Top Langs" /></a> |
+| ------------- | ------------- |
