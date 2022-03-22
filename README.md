@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=round-square&logo=notion&link=https://www.notion.so/eugenie8/f49762a21a9746d482fbdfe0fd738354/)](https://www.notion.so/eugenie8/f49762a21a9746d482fbdfe0fd738354/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugenie8/)](https://velog.io/@eugenie8)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenie8/)](https://www.linkedin.com/in/eugenie8/)
-[![Google developer Badge](https://img.shields.io/badge/-GoogleDeveloperProfile-32de84?style=round-square&logo=Android&logoColor=white&link=https://g.dev/eugenie8)](https://g.dev/eugenie8)
 [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:eugenie8@kakao.com)](mailto:eugenie8@kakao.com)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&layout=compact" alt="Top Langs" /></a> |
