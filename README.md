@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenie8/)](https://www.linkedin.com/in/eugenie8/)
 [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:eugenie8@kakao.com)](mailto:eugenie8@kakao.com)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&layout=compact" alt="Top Langs" /></a> |
+| <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&hide=javascript,html,scss&layout=compact" alt="Top Langs" /></a> |
 | :-----------: | :-----------: |
 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pacificair" /> | <img src="http://mazandi.herokuapp.com/api?handle=pacificair&theme=warm" /> |
 
