@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![Gitubio Badge](https://img.shields.io/badge/-Tech%20blog-black?style=round-square&logo=github&logoColor=white&link=https://fhsi1.github.io/)](https://fhsi1.github.io/)
+[![Gitubio Badge](https://img.shields.io/badge/-Notion%20Profile-black?style=round-square&logo=notion&logoColor=white&link=https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)](https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugenie8/)](https://velog.io/@eugenie8)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenie8/)](https://www.linkedin.com/in/eugenie8/)
 [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:eugenie8@kakao.com)](mailto:eugenie8@kakao.com)
