@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+뱃지를 누르면 해당 페이지로 이동합니다!
 
 [![Gitubio Badge](https://img.shields.io/badge/-Tech%20blog-black?style=round-square&logo=github&logoColor=white&link=https://fhsi1.github.io/)](https://fhsi1.github.io/)
 [![Gitubio Badge](https://img.shields.io/badge/-Notion%20Profile-black?style=round-square&logo=notion&logoColor=white&link=https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)](https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)
