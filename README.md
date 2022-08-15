@@ -17,15 +17,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-뱃지를 누르면 해당 페이지로 이동합니다!
-
 [![Gitubio Badge](https://img.shields.io/badge/-Tech%20blog-black?style=round-square&logo=github&logoColor=white&link=https://fhsi1.github.io/)](https://fhsi1.github.io/)
 [![Gitubio Badge](https://img.shields.io/badge/-Notion%20Profile-black?style=round-square&logo=notion&logoColor=white&link=https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)](https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)
 [![Tech Blog Badge](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugenie8/)](https://velog.io/@eugenie8)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenie8/)](https://www.linkedin.com/in/eugenie8/)
 [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:eugenie8@kakao.com)](mailto:eugenie8@kakao.com)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&exclude_repo=30-seconds-of-code&hide=javascript,html,scss,Ruby,css&layout=compact" alt="Top Langs" /></a> |
+**🛠 Tech Stacks**
+<p>
+<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=round-square&logo=CocoaPods&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=round-square&logo=ReactiveX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=round-square&logo=AdobeXD&logoColor=white"/></a>
+</p>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&exclude_repo=30-seconds-of-code&hide=javascript,html,scss,Ruby,css&layout=compact&theme=radical" alt="Top Langs" /></a> |
 | :-----------: | :-----------: |
 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pacificair" /> | <img src="http://mazandi.herokuapp.com/api?handle=pacificair&theme=warm" /> |
 
