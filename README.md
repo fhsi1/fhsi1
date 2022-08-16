@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=round-square&logo=ReactiveX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=round-square&logo=AdobeXD&logoColor=white"/></a>
