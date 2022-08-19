@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=round-square&logo=AdobeXD&logoColor=white"/></a>
 </p>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&exclude_repo=30-seconds-of-code&hide=javascript,html,scss,Ruby,css&layout=compact&theme=radical" alt="Top Langs" /></a> |
+| <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&exclude_repo=30-seconds-of-code&hide=javascript,html,scss,Ruby,css&langs_count=6&layout=compact&theme=radical" alt="Top Langs" /></a> |
 | :-----------: | :-----------: |
 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pacificair" /> | <img src="http://mazandi.herokuapp.com/api?handle=pacificair&theme=warm" /> |
 
