@@ -17,25 +17,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gitubio Badge](https://img.shields.io/badge/-Tech%20blog-black?style=round-square&logo=github&logoColor=white&link=https://fhsi1.github.io/)](https://fhsi1.github.io/)
-[![Gitubio Badge](https://img.shields.io/badge/-Notion%20Profile-black?style=round-square&logo=notion&logoColor=white&link=https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)](https://eugenie8.notion.site/f49762a21a9746d482fbdfe0fd738354)
-[![Tech Blog Badge](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugenie8/)](https://velog.io/@eugenie8)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenie8/)](https://www.linkedin.com/in/eugenie8/)
 [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:eugenie8@kakao.com)](mailto:eugenie8@kakao.com)
 
 **🛠 Tech Stacks**
 <p>
-<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=iOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=Apple&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=round-square&logo=CocoaPods&logoColor=white"/></a>
-<!-- <img src="https://img.shields.io/badge/RxSwift-B7178C?style=round-square&logo=ReactiveX&logoColor=white"/></a> -->
-<!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=round-square&logo=Flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-34A853?style=round-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=round-square&logo=Firebase&logoColor=gray"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=round-square&logo=Xcode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/></a>
-<!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=Postman&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=round-square&logo=AndroidStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=gray"/></a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Github-181717?style=round-square&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=round-square&logo=Swagger&logoColor=gray"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sentry-362D59?style=round-square&logo=Sentry&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=round-square&logo=SonarQube&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=round-square&logo=AdobeXD&logoColor=white"/></a>
 </p>
 
 <!-- | <img src="https://github-readme-stats.vercel.app/api?username=fhsi1&show_icons=true&theme=radical" alt="Eugenie's github stats" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhsi1&exclude_repo=30-seconds-of-code&hide=javascript,html,scss,Ruby,css&langs_count=6&layout=compact&theme=radical" alt="Top Langs" /></a> | -->
