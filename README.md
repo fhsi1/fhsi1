@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=gray"/></a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Github-181717?style=round-square&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=round-square&logo=Swagger&logoColor=gray"/></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=Postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=round-square&logo=Dbeaver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=round-square&logo=Jira&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=round-square&logo=Sentry&logoColor=white"/></a>
