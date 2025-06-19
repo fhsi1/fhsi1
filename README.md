@@ -53,8 +53,10 @@ Here are some ideas to get you started:
 <a href="https://leetcard.jacoblin.cool/fhsi1?theme=nord"><img src="https://leetcard.jacoblin.cool/fhsi1?theme=nord"/></a>
 </p>-->
 
+<!--
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffhsi1&count_bg=%23D93A7C&title_bg=%23141321&icon=smugmug.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </p>
+-->
 
 <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=round-square&logo=notion&link=https://www.notion.so/eugenie8/f49762a21a9746d482fbdfe0fd738354/)](https://www.notion.so/eugenie8/f49762a21a9746d482fbdfe0fd738354/) -->
